@@ -1,4 +1,4 @@
-package jp.ac.chibafjb.x15g007.kdT02;
+package jp.ac.chibafjb.x15g007.T02;
 
 public class kdT02 {
 
